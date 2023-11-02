@@ -1,5 +1,5 @@
 {
-  "name": "Mantle testnet",
+  "name": "Mantle Sepolia Testnet",
   "chain": "ETH",
   "rpc": ["https://rpc.sepolia.mantle.xyz"],
   "faucets": ["https://faucet.sepolia.mantle.xyz"],
@@ -9,12 +9,12 @@
     "decimals": 18
   },
   "infoURL": "https://mantle.xyz",
-  "shortName": "mantle-testnet",
+  "shortName": "mantle-sepolia-testnet",
   "chainId": 5003,
   "networkId": 5003,
   "explorers": [
     {
-      "name": "Mantle testnet Explorer",
+      "name": "Mantle Sepolia Testnet Explorer",
       "url": "https://explorer.sepolia.mantle.xyz",
       "standard": "EIP3091"
     }
